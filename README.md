@@ -22,5 +22,5 @@ sudo/root privileges (for full OS/port scan support)
 🔧 Installation
 Clone the repository:
 
-git clone https://github.com/yusufdalbudak/network-tracker.git
+git clone https://github.com/hacercaliskan00/network-tracker.git
 cd network-tracker
